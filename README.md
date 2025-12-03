@@ -108,7 +108,6 @@ Crie seções de categorias ilustradas na página inicial, totalmente personaliz
 **Contato:**  
 **Mateus Gonçalves**  
 WhatsApp: **(61) 9 8121-8775**  
-E-mail: *Seu e-mail aqui, se quiser incluir*
 
 ---
 
